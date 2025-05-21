@@ -11,11 +11,11 @@ load duration:        15.462275375s
 prompt eval count:    186 token(s)
 <p>
 prompt eval duration: 37.69217625s
-
+<p>
 prompt eval rate:     4.93 tokens/s
-
+<p>
 eval count:           4513 token(s)
-
+<p>
 eval duration:        3m26.265294917s
-
+<p>
 eval rate:            21.88 tokens/s
